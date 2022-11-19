@@ -1,4 +1,4 @@
-package org.hyperskill.secretdiary.ui.theme
+package org.hyperskill.cpuprofiling.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

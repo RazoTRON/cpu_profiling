@@ -20,17 +20,19 @@ files:
   visible: true
 - name: src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
   visible: true
-- name: src/main/java/org/hyperskill/projectname/MainActivity.kt
+- name: src/main/java/org/hyperskill/cpuprofiling/MainActivity.kt
   visible: true
-- name: src/test/java/org/hyperskill/projectname/Stage1UnitTest.kt
+- name: src/test/java/org/hyperskill/cpuprofiling/Stage1UnitTest.kt
   visible: false
-- name: src/test/java/org/hyperskill/projectname/internals/AbstractUnitTest.kt
+- name: src/test/java/org/hyperskill/cpuprofiling/internals/AbstractUnitTest.kt
   visible: false
-- name: src/main/java/org/hyperskill/projectname/ui/theme/Type.kt
-  visible: true
-- name: src/main/java/org/hyperskill/projectname/ui/theme/Color.kt
-  visible: true
-- name: src/main/java/org/hyperskill/projectname/ui/theme/Shape.kt
-  visible: true
-- name: src/main/java/org/hyperskill/projectname/ui/theme/Theme.kt
-  visible: true
+- name: src/main/java/org/hyperskill/cpuprofiling/ui/theme/Type.kt
+  visible: false
+- name: src/main/java/org/hyperskill/cpuprofiling/ui/theme/Color.kt
+  visible: false
+- name: src/main/java/org/hyperskill/cpuprofiling/ui/theme/Shape.kt
+  visible: false
+- name: src/main/java/org/hyperskill/cpuprofiling/ui/theme/Theme.kt
+  visible: false
+- name: src/main/java/org/hyperskill/cpuprofiling/CPU Profiling.kt
+  visible: false
