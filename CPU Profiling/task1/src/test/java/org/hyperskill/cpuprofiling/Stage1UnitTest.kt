@@ -19,8 +19,6 @@ class Test {
     }
 }
 
-// test
-
 //@RunWith(RobolectricTestRunner::class)
 //class Stage1UnitTest : AbstractUnitTest<MainActivity>(MainActivity::class.java){
 //
